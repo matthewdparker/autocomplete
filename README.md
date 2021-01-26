@@ -1,5 +1,5 @@
 # autocomplete
-An autocompletion API
+An autocompletion API, as an exercise in end-to-end data science and ML engineering.
 
 
 ## Setup
